@@ -43,9 +43,10 @@ Hi! I'm **Ankur Gangwar**, an undergraduate at **Motilal Nehru National Institut
 
 </div>
 
+
 ---
 
-## 🧰 Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -53,25 +54,45 @@ Hi! I'm **Ankur Gangwar**, an undergraduate at **Motilal Nehru National Institut
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" alt="C++, Java, Python, JavaScript and TypeScript"/>
 
+<img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS"/>
+
 ### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=react" alt="React"/>
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js and MongoDB"/>
 
-### 🤖 AI, Machine Learning & Data Science
+### 🤖 Machine Learning & Data Science
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow" alt="AI and machine learning tools"/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="PyTorch and scikit-learn"/>
 
-### 🛠️ Developer Tools
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Developer tools"/>
+### 🗄️ Database Querying
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+
+### 🔧 Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
 
 </div>
 
 ---
+
+## 🎯 Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Deep Learning
+- Data Science
+- Full-Stack Web Development
+- Data Structures & Algorithms
+
+---
+
 
 ## 🚀 Featured Projects
 
