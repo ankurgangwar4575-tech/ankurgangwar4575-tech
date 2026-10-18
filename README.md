@@ -1,221 +1,149 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6A5ACD,50:4169E1,100:00C9A7&text=Ankur%20Gangwar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Development&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Ankur Gangwar profile banner"/>
+# Hi, I'm Ankur Gangwar 👋
 
-<a href="https://myportfoolioo.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/ankur-gangwar/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ankurgangwar4575@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+### AI/ML Enthusiast · Full Stack Developer · Competitive Programmer
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+%40+MNNIT+Allahabad;Building+ML+models+and+full+stack+apps;1000%2B+DSA+problems+solved;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
-### Building intelligent solutions. One project at a time. 🚀
-
-**B.Tech @ MNNIT Allahabad | AI/ML | Full-Stack Development**
-
-![Profile Views](https://komarev.com/ghpvc/?username=ankurgangwar4575-tech&style=flat-square&color=6C63FF&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/ankurgangwar4575-tech?style=flat-square&color=4169E1&label=FOLLOWERS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurgangwar4575@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=ankurgangwar4575-tech&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🧑‍💻 About Me
 
-Hi! I'm **Ankur Gangwar**, a B.Tech student at **MNNIT Allahabad**, interested in building practical applications using Machine Learning, Data Science and Web Development.
-
-- 🤖 Exploring Machine Learning and Deep Learning through hands-on projects.
-- 🌐 Building full-stack applications using modern web technologies.
-- 🧠 Practicing Data Structures & Algorithms and competitive programming.
-- 📊 Interested in data-driven solutions and intelligent systems.
-- 🚀 Constantly learning, experimenting and building projects.
-
-> Learn continuously. Build practically. Solve problems intelligently.
+- 🎓 B.Tech in **Chemical Engineering** at **Motilal Nehru National Institute of Technology Allahabad** (2024 to 2028)
+- 🤖 Passionate about **Machine Learning, Data Science and Software Development**
+- 🧠 Solved **1000+ DSA problems** across multiple platforms
+- 🚀 Currently building end-to-end ML platforms and full stack applications
+- 🤝 Marketing Team Member at **Computer Coding Club** and part of the Event Management Team at **Chem X Club**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Languages**
 
-### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" alt="C++, Java, Python, JavaScript and TypeScript"/>
+**Frontend**
 
-### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS and React"/>
+**Backend and Databases**
 
-### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js and MongoDB"/>
+**Machine Learning**
 
-<img src="https://img.shields.io/badge/SQL-Database%20Querying-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02A9EA?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
-### 🤖 Machine Learning & Data Science
+**Tools**
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Models%20%26%20Prediction-6C63FF?style=for-the-badge" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-8A2BE2?style=for-the-badge" alt="Deep Learning"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-
-### 🔧 Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 📊 E-Commerce Growth Analytics
+*An end-to-end ML platform and BI dashboard for e-commerce analytics.*
 
-<a href="https://github.com/ankurgangwar4575-tech/E-Commerce-Sales-Analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankurgangwar4575-tech&repo=E-Commerce-Sales-Analytics&theme=tokyonight&hide_border=true" alt="E-Commerce Sales Analytics"/>
-</a>
-<a href="https://github.com/ankurgangwar4575-tech/Expense-Tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankurgangwar4575-tech&repo=Expense-Tracker&theme=tokyonight&hide_border=true" alt="Expense Tracker"/>
-</a>
-<a href="https://github.com/ankurgangwar4575-tech/MarioPlayingAgent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankurgangwar4575-tech&repo=MarioPlayingAgent&theme=tokyonight&hide_border=true" alt="Mario Playing Agent"/>
-</a>
-<a href="https://github.com/ankurgangwar4575-tech/TextSummarizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankurgangwar4575-tech&repo=TextSummarizer&theme=tokyonight&hide_border=true" alt="Text Summarizer"/>
-</a>
-<a href="https://github.com/ankurgangwar4575-tech/DigitClassifier">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankurgangwar4575-tech&repo=DigitClassifier&theme=tokyonight&hide_border=true" alt="Digit Classifier"/>
-</a>
-<a href="https://github.com/ankurgangwar4575-tech/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ankurgangwar4575-tech&repo=Portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio"/>
-</a>
+- Deployed **LightGBM** models to predict order return risk and dynamically segment customers
+- Built a scalable **FastAPI** service feeding a real-time **React** dashboard
+- Achieved **96.9% ROC-AUC** and **83.5% PR-AUC** on an e-commerce dataset
 
-</div>
+`Python` `Scikit-learn` `LightGBM` `FastAPI` `React` `Tailwind CSS` `TypeScript`
 
-### 🔍 A closer look at my work
+### 💸 SpendSmart: Full Stack Expense Tracker
+*A comprehensive expense tracking platform with real-time budget monitoring.*
 
-| Project | Description |
+- Secure login with **JWT** access tokens and **Google OAuth**
+- **MongoDB** aggregation pipelines for real-time income, expense and budget alerts
+- Responsive React dashboard with **Chart.js** visualizations
+
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT` `Google OAuth`
+
+### 🎮 MarioMind: Deep Reinforcement Learning Agent
+*A Double DQN agent that learns to play Super Mario Bros.*
+
+- Converted game frames to 84×84 grayscale images and stacked 4 consecutive frames
+- Built a **CNN-based Q-network** with Double DQN for stable Q-value learning
+- Enabled autonomous gameplay driven by reward-based learning
+
+`Python` `PyTorch` `Gymnasium` `Double Deep Q Network`
+
+---
+
+## 🏆 Achievements
+
+- 🧩 Solved **1000+ DSA problems** across platforms
+- 🌍 **Global Rank 3759** in LeetCode Weekly Contest 473
+- 🌍 **Global Rank 403** in CodeChef START225D
+
+---
+
+## 💻 Coding Profiles
+
+| Platform | Highlights |
 |---|---|
-| [E-Commerce Sales Analytics](https://github.com/ankurgangwar4575-tech/E-Commerce-Sales-Analytics) | Machine learning platform and business intelligence dashboard for e-commerce analytics. |
-| [Expense Tracker](https://github.com/ankurgangwar4575-tech/Expense-Tracker) | Full-stack application for managing and tracking expenses. |
-| [Mario Playing Agent](https://github.com/ankurgangwar4575-tech/MarioPlayingAgent) | AI agent trained to play Super Mario Bros using Double Deep Q-Learning. |
-| [Text Summarizer](https://github.com/ankurgangwar4575-tech/TextSummarizer) | Transformer-based text summarization project. |
-| [Digit Classifier](https://github.com/ankurgangwar4575-tech/DigitClassifier) | Handwritten digit recognition using CNN, RNN and LSTM models. |
-| [Personal Portfolio](https://github.com/ankurgangwar4575-tech/Portfolio) | Personal website showcasing my profile and projects. |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/ankur01-02) | 700+ problems, max rating 1596 |
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ankur009) | Pupil, 500+ problems, max rating 1227 |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/ankur01-02) | 2 Star, max rating 1444 |
+| [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ankur02) | 350+ problems |
 
 ---
 
-## 🧠 Competitive Programming
-
-I enjoy strengthening my problem-solving skills through algorithmic challenges and regular practice.
-
-- Data Structures & Algorithms
-- Binary Search, Sliding Window & Two Pointers
-- Trees, Graphs & Dynamic Programming
-- Greedy Algorithms, Recursion & Backtracking
-- Bit Manipulation & Number Theory
+## 📈 GitHub Stats
 
 <div align="center">
 
-### Find me on coding platforms
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankurgangwar4575-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurgangwar4575-tech&layout=compact&theme=tokyonight&hide_border=true" />
 
-<a href="https://leetcode.com/u/ankur01-02/">
-<img src="https://img.shields.io/badge/LeetCode-ankur01--02-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="My LeetCode profile"/>
-</a>
-
-<a href="https://codeforces.com/profile/ankur009">
-<img src="https://img.shields.io/badge/Codeforces-ankur009-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="My Codeforces profile"/>
-</a>
-
-<a href="https://www.codechef.com/users/ankur01_02">
-<img src="https://img.shields.io/badge/CodeChef-ankur01__02-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="My CodeChef profile"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/ankur02?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-ankur02-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="My GeeksforGeeks profile"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankurgangwar4575-tech&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Areas of Interest
+
+`Artificial Intelligence` · `Machine Learning` · `Data Science` · `Software Development` · `Object Oriented Programming` · `DBMS` · `Operating Systems` · `Data Structures and Algorithms` · `Competitive Programming` · `Web Development`
+
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankurgangwar4575-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurgangwar4575-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
+### 📫 Let's connect
 
-<br/><br/>
+Open to collaborations, internships and interesting projects.
 
-<img width="75%" src="https://streak-stats.demolab.com?user=ankurgangwar4575-tech&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ankurgangwar4575-tech&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology (B.Tech)**  
-**Motilal Nehru National Institute of Technology Allahabad**  
-2024 – 2028
-
-### Areas of Interest
-
-- Artificial Intelligence & Machine Learning
-- Deep Learning & Data Science
-- Full-Stack Web Development
-- Data Structures & Algorithms
-
----
-
-## 🎯 What I'm Working Towards
-
-- Strengthening my understanding of Machine Learning and Deep Learning.
-- Building practical AI/ML and full-stack projects.
-- Improving problem-solving and algorithmic thinking.
-- Developing software that solves meaningful real-world problems.
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://myportfoolioo.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/ankur-gangwar/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ankurgangwar4575@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/ankurgangwar4575-tech">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-### 💡 Learn. Build. Solve. Repeat.
-
-*Thanks for visiting my profile! If you find a project useful, consider giving it a ⭐.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:4169E1,100:00C9A7&height=120&section=footer" width="100%" alt="Decorative footer"/>
+⭐ *If you like my work, consider giving a star to my repositories.* ⭐
 
 </div>
