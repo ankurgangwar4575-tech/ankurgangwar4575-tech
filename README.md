@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in **Chemical Engineering** at **Motilal Nehru National Institute of Technology Allahabad** (2024 to 2028)
+- 🎓 B.Tech in **Chemical Engineering** at **Motilal Nehru National Institute of Technology Allahabad** (2024 to 2028) with 9.17 CPI 
 - 🤖 Passionate about **Machine Learning, Data Science and Software Development**
 - 🧠 Solved **1000+ DSA problems** across multiple platforms
 - 🚀 Currently building end-to-end ML platforms and full stack applications
