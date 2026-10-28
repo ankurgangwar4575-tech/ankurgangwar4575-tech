@@ -18,7 +18,7 @@
 
 - 🎓 B.Tech in **Chemical Engineering** at **Motilal Nehru National Institute of Technology Allahabad** (2024 to 2028) with 9.17 CPI 
 - 🤖 Passionate about **Machine Learning, Data Science and Software Development**
-- 🧠 Solved **1000+ DSA problems** across multiple platforms
+- 🧠 Solved **1700+ Coding problems** across multiple platforms
 - 🚀 Currently building end-to-end ML platforms and full stack applications
 - 🤝 Marketing Team Member at **Computer Coding Club** and part of the Event Management Team at **Chem X Club**
 
