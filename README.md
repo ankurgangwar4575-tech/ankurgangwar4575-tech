@@ -2,7 +2,7 @@
 
 # Hi, I'm Ankur Gangwar 👋
 
-### AI/ML Enthusiast · Full Stack Developer · Competitive Programmer
+### AI/ML Enthusiast · Full Stack Web Developer · Problem Solver
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+%40+MNNIT+Allahabad;Building+ML+models+and+full+stack+apps;1000%2B+DSA+problems+solved;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
