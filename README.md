@@ -102,7 +102,7 @@
 
 ## 🏆 Achievements
 
-- 🧩 Solved **1000+ DSA problems** across platforms
+- 🧩 Solved **1050+ DSA problems** across platforms
 - 🌍 **Global Rank 3759** in LeetCode Weekly Contest 473
 - 🌍 **Global Rank 403** in CodeChef START225D
 
