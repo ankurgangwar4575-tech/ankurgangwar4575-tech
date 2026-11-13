@@ -72,7 +72,7 @@
 ## 🚀 Featured Projects
 
 ### 📊 E-Commerce Growth Analytics
-*An end-to-end ML platform and BI dashboard for e-commerce analytics.*
+*An end-to-end ML platform and BI dashboard for e-commerce analytics*
 
 - Deployed **LightGBM** models to predict order return risk and dynamically segment customers
 - Built a scalable **FastAPI** service feeding a real-time **React** dashboard
@@ -81,7 +81,7 @@
 `Python` `Scikit-learn` `LightGBM` `FastAPI` `React` `Tailwind CSS` `TypeScript`
 
 ### 💸 SpendSmart: Full Stack Expense Tracker
-*A comprehensive expense tracking platform with real-time budget monitoring.*
+*A comprehensive expense tracking platform with real-time budget monitoring*
 
 - Secure login with **JWT** access tokens and **Google OAuth**
 - **MongoDB** aggregation pipelines for real-time income, expense and budget alerts
@@ -90,7 +90,7 @@
 `MongoDB` `Express.js` `React.js` `Node.js` `JWT` `Google OAuth`
 
 ### 🎮 MarioMind: Deep Reinforcement Learning Agent
-*A Double DQN agent that learns to play Super Mario Bros.*
+*A Double DQN agent that learns to play Super Mario Bros*
 
 - Converted game frames to 84×84 grayscale images and stacked 4 consecutive frames
 - Built a **CNN-based Q-network** with Double DQN for stable Q-value learning
